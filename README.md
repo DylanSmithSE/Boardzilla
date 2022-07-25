@@ -17,7 +17,7 @@ This project was created by my group in our Software Architecture class (3A04). 
 - React
 - Node.js
 
-## Instalation
+## Installation
 
 Install dependencies
 
